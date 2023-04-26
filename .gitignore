@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 /data
+/spacy_env
 

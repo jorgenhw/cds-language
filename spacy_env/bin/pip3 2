@@ -1,4 +1,4 @@
-#!/Users/wibe/Desktop/CogSci/Language_analytics/cds-language/spacy_env/bin/python3
+#!/Users/wibe/Desktop/CogSci/Language_analytics/cds-language/spacy_env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
